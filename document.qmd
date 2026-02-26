@@ -8,3 +8,6 @@ format: html
 # Introduction
 
 This is my first Quarto document.
+# Conclusion
+
+This concludes my first Quarto document.
